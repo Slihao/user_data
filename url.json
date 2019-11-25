@@ -8,6 +8,12 @@
       "http://www.baidu.com",
       "http://www.baidu.com",
       "http://www.baidu.com"
+    ],
+    "banners": [
+      "https://raw.githubusercontent.com/Slihao/user_data/master/banner_01.jpg",
+      "https://raw.githubusercontent.com/Slihao/user_data/master/banner_01.jpg",
+      "https://raw.githubusercontent.com/Slihao/user_data/master/banner_01.jpg",
+      "https://raw.githubusercontent.com/Slihao/user_data/master/banner_01.jpg"
     ]
   }
 }
