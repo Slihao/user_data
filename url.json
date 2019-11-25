@@ -1,9 +1,13 @@
 {
-  "urlList": [
-    "http://www.baidu.com",
-    "http://www.baidu.com",
-    "http://www.baidu.com",
-    "http://www.baidu.com",
-    "http://www.baidu.com"
-  ]
+  "msg": "获取成功",
+  "code": 1,
+  "data": {
+    "urls": [
+      "http://www.baidu.com",
+      "http://www.baidu.com",
+      "http://www.baidu.com",
+      "http://www.baidu.com",
+      "http://www.baidu.com"
+    ]
+  }
 }
